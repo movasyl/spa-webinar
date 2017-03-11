@@ -1,5 +1,5 @@
 # Материалы к вебинару "Разработка SPA на React, NodeJS, Express и MongoDB"
-
+https://youtu.be/mYvdeFfZ_NE
 ### План вебинара
 
  - Краткое введение в NodeJS и npm
